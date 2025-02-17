@@ -13,7 +13,7 @@ The following files are included in this repository:
 If you use this potential in your research, please cite the following paper:  
 *Unveiling Kink Band Formation Mechanism in MAX Phases* (DOI will be added soon).
 
-### Usage Instructions
+#### Usage Instructions
 To apply SNAP in your LAMMPS simulations, include the following commands in your input script:
 
 pair_style snap
