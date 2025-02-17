@@ -9,13 +9,15 @@ The following files are included in this repository:
 - **TSC_commat.snapcoeff** – SNAP coefficient file
 - **TSC_commat.snapparam** – SNAP parameter file
 
-#### Citation
-If you use this potential in your research, please cite the following paper:  
-*"Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)"* (DOI will be added soon).
-
 #### Usage Instructions
-To apply SNAP in your LAMMPS simulations, include the following commands in your input script:
+To apply SNAP in LAMMPS simulations, include the following commands in input script:
 
 pair_style snap
 \
 pair_coeff * * TSC_commat.snapparam TSC_commat.snapcoeff Ti Si C
+
+#### Citation
+If you use this potential in your research, please cite the following paper:  
+*"Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)"* (DOI will be added soon).
+
+
