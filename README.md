@@ -10,7 +10,7 @@ The following files are included:
 - **TSC_commat.snapparam** – SNAP parameter file
 
 #### Citation
-If you use this potential in your research, please cite:  
+If you use this potential in your research, please cite: (doi will be added soon) 
 
 ## Usage Instructions
 To apply SNAP in your LAMMPS simulations, use the following command in your input script:
