@@ -1,19 +1,20 @@
 # Trained Spectral Neighbor Analysis Potential (SNAP)
 
-This repository contains the trained SNAP potential.
+This repository contains the trained Spectral Neighbor Analysis Potential (SNAP)
 
-## 1. SNAP for Ti₃SiC₂ MAX Phase
+### 1. SNAP for Ti₃SiC₂ MAX Phase
 #### Paper: *"Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)"*
 
-The following files are included:
+The following files are included in this repository:
 - **TSC_commat.snapcoeff** – SNAP coefficient file
 - **TSC_commat.snapparam** – SNAP parameter file
 
 #### Citation
-If you use this potential in your research, please cite: (doi will be added soon) 
+If you use this potential in your research, please cite the following paper:  
+*Unveiling Kink Band Formation Mechanism in MAX Phases* (DOI will be added soon).
 
-## Usage Instructions
-To apply SNAP in your LAMMPS simulations, use the following command in your input script:
+### Usage Instructions
+To apply SNAP in your LAMMPS simulations, include the following commands in your input script:
 
 pair_style snap
 \
