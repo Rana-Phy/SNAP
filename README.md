@@ -11,7 +11,7 @@ The following files are included in this repository:
 
 #### Citation
 If you use this potential in your research, please cite the following paper:  
-*Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)* (DOI will be added soon).
+*"Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)"* (DOI will be added soon).
 
 #### Usage Instructions
 To apply SNAP in your LAMMPS simulations, include the following commands in your input script:
