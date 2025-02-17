@@ -13,5 +13,6 @@ The following files are included:
 
 ### Usage Instructions
 To apply this potential in your LAMMPS simulations, use the following command in your input script:
+
 pair_style snap
 pair_coeff * * TSC_commat.snapparam TSC_commat.snapcoeff Ti Si C
