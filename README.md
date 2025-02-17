@@ -1,5 +1,5 @@
-# The repository includes the trained Spectral Neighbor Analysis Potential (SNAP):
-For the Ti₃SiC₂ MAX phase with the following files
+# The repository includes the trained Spectral Neighbor Analysis Potential (SNAP)
+## For the Ti₃SiC₂ MAX phase with the following files
 - TSC_commat.snapcoeff – SNAP coefficient file
 - TSC_commat.snapparam – SNAP parameter file
 
