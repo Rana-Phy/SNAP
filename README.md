@@ -11,7 +11,7 @@ The following files are included:
 - **TSC_commat.snapcoeff** – SNAP coefficient file
 - **TSC_commat.snapparam** – SNAP parameter file
 
-### Usage Instructions
+## Usage Instructions
 To apply this potential in your LAMMPS simulations, use the following command in your input script:
 
 pair_style snap
