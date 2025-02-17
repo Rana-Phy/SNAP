@@ -9,7 +9,7 @@ The following files are included:
 - **TSC_commat.snapcoeff** – SNAP coefficient file
 - **TSC_commat.snapparam** – SNAP parameter file
 
-### Citation
+#### Citation
 If you use this potential in your research, please cite:  
 
 ## Usage Instructions
