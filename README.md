@@ -2,14 +2,14 @@
 
 This repository contains the trained SNAP potential.
 
-## 1. SNAP for Ti₃SiC₂ MAX Phase 
-### Citation
-If you use this potential in your research, please cite:  
-*"Unveiling Kink Band Formation Mechanism in MAX Phases."*
+## 1. SNAP for Ti₃SiC₂ MAX Phase used in paper *"Unveiling Kink Band Formation Mechanism in MAX Phases."*
 
 The following files are included:
 - **TSC_commat.snapcoeff** – SNAP coefficient file
 - **TSC_commat.snapparam** – SNAP parameter file
+
+### Citation
+If you use this potential in your research, please cite:  
 
 ## Usage Instructions
 To apply this potential in your LAMMPS simulations, use the following command in your input script:
