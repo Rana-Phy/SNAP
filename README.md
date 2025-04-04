@@ -18,6 +18,6 @@ pair_coeff * * TSC_commat.snapparam TSC_commat.snapcoeff Ti Si C
 
 #### Citation
 If use this potential, please cite the following paper:  
-*"Unveiling Kink Band Formation Mechanism in MAX Phases (Communications Materials)"* (DOI will be added soon).
+Hossain, R., Ogata, S. Unveiling kink band formation mechanism in MAX phases. Commun Mater 6, 51 (2025). https://doi.org/10.1038/s43246-025-00766-7
 
 
