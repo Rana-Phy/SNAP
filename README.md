@@ -14,7 +14,7 @@ To apply SNAP in LAMMPS simulations, include the following commands in input scr
 
 pair_style snap
 \
-pair_coeff * * TSC_commat.snapparam TSC_commat.snapcoeff Ti Si C
+pair_coeff * * TSC_commat.snapcoeff TSC_commat.snapparam Ti Si C
 
 #### Citation
 If use this potential, please cite the following paper:  
